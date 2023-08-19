@@ -1,0 +1,12 @@
+#HW5 CS452 Xavier Black
+
+##Memory Hole
+
+##Compile: Run make in hw5
+
+##Testing: Tests in test.c. Run with "./test". Labeled with comments and commented out. The last tests are the deq 
+tester. 
+
+
+### Resources
+https://stackoverflow.com/questions/466204/rounding-up-to-next-power-of-2
